@@ -1,0 +1,6 @@
+dependencies: \
+  /Users/manbendra.s/Documents/Personal/Code/UserProfile/node_modules/react-native/React/Modules/RCTClipboard.m \
+  /Users/manbendra.s/Documents/Personal/Code/UserProfile/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
+  /Users/manbendra.s/Documents/Personal/Code/UserProfile/node_modules/react-native/React/Modules/RCTClipboard.h \
+  /Users/manbendra.s/Documents/Personal/Code/UserProfile/ios/Pods/Headers/Private/React-Core/React/RCTBridgeModule.h \
+  /Users/manbendra.s/Documents/Personal/Code/UserProfile/ios/Pods/Headers/Private/React-Core/React/RCTDefines.h

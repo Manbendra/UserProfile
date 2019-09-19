@@ -1,0 +1,9 @@
+dependencies: \
+  /Users/manbendra.s/Documents/Personal/Code/UserProfile/ios/Pods/DoubleConversion/double-conversion/strtod.cc \
+  /Users/manbendra.s/Documents/Personal/Code/UserProfile/ios/Pods/Target\ Support\ Files/DoubleConversion/DoubleConversion-prefix.pch \
+  /Users/manbendra.s/Documents/Personal/Code/UserProfile/ios/Pods/DoubleConversion/double-conversion/strtod.h \
+  /Users/manbendra.s/Documents/Personal/Code/UserProfile/ios/Pods/DoubleConversion/double-conversion/utils.h \
+  /Users/manbendra.s/Documents/Personal/Code/UserProfile/ios/Pods/DoubleConversion/double-conversion/bignum.h \
+  /Users/manbendra.s/Documents/Personal/Code/UserProfile/ios/Pods/DoubleConversion/double-conversion/cached-powers.h \
+  /Users/manbendra.s/Documents/Personal/Code/UserProfile/ios/Pods/DoubleConversion/double-conversion/diy-fp.h \
+  /Users/manbendra.s/Documents/Personal/Code/UserProfile/ios/Pods/DoubleConversion/double-conversion/ieee.h
